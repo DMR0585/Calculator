@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0450"
+   LastUpgradeVersion = "0460"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8E2C72BF16A4D20A00FC349E"
+               BlueprintIdentifier = "8EE7485E16C6D69D00089887"
                BuildableName = "Calculator.app"
                BlueprintName = "Calculator"
                ReferencedContainer = "container:Calculator.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8E2C72E616A4D20B00FC349E"
+               BlueprintIdentifier = "8EE7488416C6D69D00089887"
                BuildableName = "CalculatorTests.octest"
                BlueprintName = "CalculatorTests"
                ReferencedContainer = "container:Calculator.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8E2C72BF16A4D20A00FC349E"
+            BlueprintIdentifier = "8EE7485E16C6D69D00089887"
             BuildableName = "Calculator.app"
             BlueprintName = "Calculator"
             ReferencedContainer = "container:Calculator.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8E2C72BF16A4D20A00FC349E"
+            BlueprintIdentifier = "8EE7485E16C6D69D00089887"
             BuildableName = "Calculator.app"
             BlueprintName = "Calculator"
             ReferencedContainer = "container:Calculator.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8E2C72BF16A4D20A00FC349E"
+            BlueprintIdentifier = "8EE7485E16C6D69D00089887"
             BuildableName = "Calculator.app"
             BlueprintName = "Calculator"
             ReferencedContainer = "container:Calculator.xcodeproj">
